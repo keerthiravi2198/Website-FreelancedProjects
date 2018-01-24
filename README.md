@@ -1,5 +1,5 @@
 # Websites_Freelanced_Projects
-All the websites developed by me as a freelancer:
+Below lies the complete list of websites developed:
 
 1. https://wildavians.com
 2. https://thenomadicfolks.com
